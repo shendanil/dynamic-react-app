@@ -1,4 +1,4 @@
-# Dynamic ReactJS app
+# Meme Generator
 
 ## In this project I've learned:
 * how to add event listeners in a React app
